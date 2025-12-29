@@ -12,7 +12,7 @@ It features multiple product categories, navigation pages, and a structured layo
 - Organized content with dedicated category pages
 - Suitable for portfolio showcase
 
-## 📂 Pages Overview
+## Pages Overview
 
 | Page | Purpose |
 |------|----------|
@@ -28,8 +28,6 @@ It features multiple product categories, navigation pages, and a structured layo
 | `Home&Decor.html` | Home decor products |
 | `ARViewer.html` | Augmented Reality viewer (static UI) |
 | Other category pages | Based on niche sections |
-
----
 
 ## 🛠️ Tech Stack
 
