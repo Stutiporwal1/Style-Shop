@@ -3,16 +3,14 @@
 **Style Shop** is a multi-page e-commerce frontend website built using HTML, CSS, and JavaScript.  
 It features multiple product categories, navigation pages, and a structured layout similar to online shopping sites.
 
-## 🚀 Features
+## Features
 
-- 🧭 Multi-page navigation website
-- 🛒 Category-based product browsing (Clothing, Electronics, Beauty, Books, Home Decor, etc.)
-- 📱 Responsive layout (basic responsiveness)
-- 💬 Contact and help pages included
-- 🖼️ Organized content with dedicated category pages
-- 🎯 Suitable for portfolio showcase
-
----
+- Multi-page navigation website
+- Category-based product browsing (Clothing, Electronics, Beauty, Books, Home Decor, etc.)
+- Responsive layout (basic responsiveness)
+- Contact and help pages included
+- Organized content with dedicated category pages
+- Suitable for portfolio showcase
 
 ## 📂 Pages Overview
 
