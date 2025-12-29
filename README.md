@@ -30,7 +30,6 @@ It features multiple product categories, navigation pages, and a structured layo
 | Other category pages | Based on niche sections |
 
 
-## 📁 Project Structure
 
 
 
