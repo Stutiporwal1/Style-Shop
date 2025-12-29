@@ -29,16 +29,6 @@ It features multiple product categories, navigation pages, and a structured layo
 | `ARViewer.html` | Augmented Reality viewer (static UI) |
 | Other category pages | Based on niche sections |
 
-## 🛠️ Tech Stack
-
-| Area | Technology |
-|------|-------------|
-| Structure | **HTML5** |
-| Styling | **CSS3** |
-| Functionality | **JavaScript (basic)** |
-| Licensing | MIT |
-
----
 
 ## 📁 Project Structure
 
