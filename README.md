@@ -1,6 +1,6 @@
 # Style Shop – E-Commerce Website
 
-**Style Shop** is a multi-page e-commerce frontend website built using HTML, CSS, and JavaScript.  
+Style Shop is a multi-page e-commerce frontend website built using HTML, CSS, and JavaScript.  
 It features multiple product categories, navigation pages, and a structured layout similar to online shopping sites.
 
 ## Features
